@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Consumer Complaint Tracking System",
+        "image": "https://placehold.co/600x400?text=Consumer+Complaint",
+        "tech": [
+            "HTML",
+            "CSS",
+            "JS",
+            "PHP"
+        ],
+        "description": "A centralized platform for citizens to register and track complaints, ensuring accountability and transparency.",
+        "live": "#",
+        "github": "#"
+    },
+    {
+        "name": "Ambulance Tracking System",
+        "image": "https://placehold.co/600x400?text=Ambulance+Tracking",
+        "tech": [
+            "Python",
+            "Flask",
+            "JS"
+        ],
+        "description": "Real-time tracking of ambulances with geolocation and emergency dispatch integration.",
+        "live": "#",
+        "github": "#"
+    },
+    {
+        "name": "E-commerce Website",
+        "image": "https://placehold.co/600x400?text=E-commerce",
+        "tech": [
+            "Django",
+            "Tailwind",
+            "PostgreSQL"
+        ],
+        "description": "A fully functional online store with product management and secure checkout.",
+        "live": "#",
+        "github": "#"
+    },
+    {
+        "name": "YouTube Clone",
+        "image": "https://placehold.co/600x400?text=YouTube+Clone",
+        "tech": [
+            "React",
+            "Firebase",
+            "Node.js"
+        ],
+        "description": "A video sharing platform clone with real-time comments and video streaming features.",
+        "live": "#",
+        "github": "#"
+    },
+    {
+        "name": "Photography Gallery",
+        "image": "https://placehold.co/600x400?text=Photography+Gallery",
+        "tech": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "description": "A stunning visual gallery for wedding and event photography with masonry layout.",
+        "live": "#",
+        "github": "#"
+    }
+]
